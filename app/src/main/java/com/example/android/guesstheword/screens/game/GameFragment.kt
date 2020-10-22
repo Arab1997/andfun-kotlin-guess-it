@@ -64,6 +64,7 @@ private lateinit var viewModel: GameViewModel
         updateWordText()
         return binding.root
 
+
     }
 
     /**
